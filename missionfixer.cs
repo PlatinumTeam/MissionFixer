@@ -87,5 +87,9 @@ function fixThoseMissions()
       %file = findNextFile(%search);
    }
    
+	// cleanup
+	%fIn.delete();
+	%fOut.delete();
+	
    echo("DONE!  Please restart marble blast.");
 }
