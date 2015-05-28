@@ -34,3 +34,7 @@ The code will do its thing, and it may take some time and even become unresponsi
 MBP LB USERS:
 
 Afterwards, delete both the .cs and .dso file so that LBs will re-enable themselves in MBP.
+
+Note for OSX users: 
+
+If you are not running Marble Blast Platinum 1.50 or higher, you need to run the game with -nohomedir
