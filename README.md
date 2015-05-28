@@ -19,11 +19,15 @@ then, open up Marble blast, and open the console (press ~)
 
 in the console type this:
 
-```exec($usermods @ /missionFix.cs);```
+```
+exec($usermods @ /missionFix.cs);
+```
 
 The code will compile. Afterwards, to check it, type this into the console:
 
-```fixMissions();```
+```
+fixMissions();
+```
 
 The code will do its thing, and it may take some time and even become unresponsive. Just let its do its thing. If it takes more than 5 minutes, then force quit marble blast and assume that it got most of the levels.
 
